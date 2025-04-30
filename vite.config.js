@@ -2,6 +2,6 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
 export default defineConfig({
-  base: "/lottie-react/", // Replace with your repository name
+  base: "https://roshanjayathunga.github.io/", // Replace with your repository name
   plugins: [react()],
 });
